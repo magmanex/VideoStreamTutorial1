@@ -1,0 +1,7 @@
+#Tue Jun 06 23:41:28 ICT 2017
+base.0=C\:\\android\\VideoStreamTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a39216a2f3d2d4204ed54d20f3fbabab96bc5afc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\android\\VideoStreamTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_afd7dab7a6f516c6faaba71d8c7ea8fce012f4fb\\classes.dex
+base.1=C\:\\android\\VideoStreamTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_afd7dab7a6f516c6faaba71d8c7ea8fce012f4fb
+file.0=C\:\\android\\VideoStreamTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a39216a2f3d2d4204ed54d20f3fbabab96bc5afc\\classes.dex
